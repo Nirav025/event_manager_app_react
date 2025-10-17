@@ -12,7 +12,7 @@ The app features a **modern, minimal UI** with responsive design, gradient theme
 * View all events as clean, organized **cards** on the Home page  
 * Update or delete events instantly  
 * **Separate pages** for adding an event and viewing all events  
-* Fully connected with **Firebase Firestore** for real-time CRUD operations  
+* Fully connected with **Firebase Firestore** for real-time operations  
 * Responsive layout built with **Bootstrap**  
 
 ---
