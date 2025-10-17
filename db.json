@@ -1,0 +1,24 @@
+{
+  "taskList": [
+    {
+      "id": "f06d",
+      "task_category": "Coding",
+      "task_title": "Graphics Design is Very Easy"
+    },
+    {
+      "id": "a874",
+      "task_category": "Graphics",
+      "task_title": "Graphics is Good"
+    },
+    {
+      "id": "7d43",
+      "task_category": "UI/UX",
+      "task_title": "UI for Websites"
+    },
+    {
+      "id": "71fa",
+      "task_category": "Coding",
+      "task_title": "Coding is Cool"
+    }
+  ]
+}
